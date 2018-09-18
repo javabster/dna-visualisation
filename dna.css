@@ -1,0 +1,88 @@
+/* @keyframes test {
+    0% {stroke-width: 7;}
+    50% {stroke-width: 15;}
+    100% {stroke-width: 7;}
+} */
+
+@keyframes test {
+    0% {transform: scaleY(1);}
+    50% {transform: scaleY(1.2);}
+    100% {transform: scaleY(1);}
+}
+
+@keyframes text {
+    0% {color: transparent}
+    30% {color: black}
+    65% {color: transparent}
+}
+
+
+@keyframes pebtxt1 {
+    0% {color: transparent}
+    5% {color: black}
+    /* 15% {color: black} */
+    20% {color: transparent}
+
+}
+
+@keyframes peb1 {
+    0% {transform: scaleY(1);}
+    5% {transform: scaleY(1.2);}
+    20% {transform: scaleY(1);}
+}
+
+@keyframes peb2 {
+    20% {transform: scaleY(1);}
+    25% {transform: scaleY(1.2);}
+    40% {transform: scaleY(1);}
+}
+
+@keyframes pebtxt2 {
+    0% {color: transparent}
+    20% {color: transparent}
+    25% {color: black}
+    /* 35% {color: black} */
+    40% {color: transparent}
+}
+
+@keyframes peb3 {
+    40% {transform: scaleY(1);}
+    45% {transform: scaleY(1.2);}
+    60% {transform: scaleY(1);}
+}
+
+@keyframes pebtxt3 {
+    0% {color: transparent}
+    40% {color: transparent}
+    45% {color: black}
+    /* 55% {color: black} */
+    60% {color: transparent}
+}
+
+@keyframes peb4 {
+    60% {transform: scaleY(1);}
+    65% {transform: scaleY(1.2);}
+    80% {transform: scaleY(1);}
+}
+
+@keyframes pebtxt4 {
+    0% {color: transparent}
+    60% {color: transparent}
+    65% {color: black}
+    /* 75% {color: black} */
+    80% {color: transparent}
+}
+
+@keyframes peb5 {
+    80% {transform: scaleY(1);}
+    85% {transform: scaleY(1.2);}
+    100% {transform: scaleY(1);}
+}
+
+@keyframes pebtxt5 {
+    0% {color: transparent}
+    80% {color: transparent}
+    85% {color: black}
+    /* 95% {color: black} */
+    100% {color: transparent}
+}
