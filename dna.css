@@ -4,6 +4,10 @@
     100% {stroke-width: 7;}
 } */
 
+.text {
+    text-align: center;
+}
+
 @keyframes test {
     0% {transform: scaleY(1);}
     50% {transform: scaleY(1.2);}
